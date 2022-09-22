@@ -1,0 +1,25 @@
+{
+  "name": "hiringboot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "twit": "^2.2.11",
+    "twitter-api-v2": "^1.11.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushrungta8/hiringboot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayushrungta8/hiringboot/issues"
+  },
+  "homepage": "https://github.com/ayushrungta8/hiringboot#readme"
+}
